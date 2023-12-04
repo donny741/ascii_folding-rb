@@ -13,8 +13,8 @@ Gem::Specification.new do |spec|
                      "mapping tables that are the same as those used by Lucene's ASCIIFoldingFilter."
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["homepage_uri"] = "https://github.com/donny741/ascii_folding"
-  spec.metadata["source_code_uri"] = "https://github.com/donny741/ascii_folding"
+  spec.metadata["homepage_uri"] = "https://github.com/donny741/ascii_folding-rb"
+  spec.metadata["source_code_uri"] = "https://github.com/donny741/ascii_folding-rb"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
