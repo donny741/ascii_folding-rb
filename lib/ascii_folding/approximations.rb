@@ -1244,5 +1244,5 @@ module AsciiFolding
     "＿" => "_",
     "⁓" => "~",
     "～" => "~"
-  }
+  }.freeze
 end
