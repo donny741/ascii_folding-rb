@@ -1,0 +1,6 @@
+module AsciiFolding
+  VERSION: String
+  APPROXIMATIONS: Hash[String, Array[String]]
+
+  def self.fold: (String, ?replacement: String) -> String
+end
